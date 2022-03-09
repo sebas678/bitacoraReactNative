@@ -1,0 +1,2 @@
+Con este ejercicio aprendí a crear un nuevo proyecto. 
+Que es similar a un documento html/css y que se puede exportar a android y ios
